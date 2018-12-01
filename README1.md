@@ -40,7 +40,7 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
+| ![Completed][Completed]     | Aug 2018 | [Free Code Camp - Responsive Web Design]                        | [Quincy Larson] - [egghead.io]               |
 | ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
 | ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
@@ -62,6 +62,8 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 | ![Soon][Soon]               |          | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy]                       |
 
 [//]: # (Reference links to courses)
+
+[Free Code Camp - Responsive Web Design]: https://learn.freecodecamp.org/
 
 [Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
 [JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
@@ -85,6 +87,7 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 
 [//]: # (Reference links to tutors)
 
+[Quincy Larson]: https://twitter.com/ossia
 [Cassidy Williams]: https://twitter.com/cassidoo
 [Christina Truong]: https://twitter.com/christinatruong
 [Lynda.com]: https://www.lynda.com
