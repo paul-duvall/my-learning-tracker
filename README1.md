@@ -46,29 +46,23 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 | ![In Progress][In Progress] |          | [What the flexbox?]                                             | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
-| ![Soon][Soon]               |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
+| ![In Progress][In Progress] |          | Read [You Don't Know Javascript]                                | [Kyle Simpson]                                 |
+| ![Soon][Soon]               |          | [Advanced CSS and Sass]                                         | [Jonas Schmedtmann]         |
 
 [//]: # (Reference links to courses)
 
+[Advanced CSS and Sass]: https://www.udemy.com/advanced-css-and-sass/
 [Modern Javascript From the Beginning]: https://www.udemy.com/modern-javascript-from-the-beginning/
 [What the flexbox?]: https://flexbox.io/
+[You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
 [JavaScript30]: https://javascript30.com/
 [JavaScript & jQuery]: http://javascriptbook.com/
 [Free Code Camp - Javascript Data Structures and Algorithms]: https://learn.freecodecamp.org/
 [Free Code Camp - Responsive Web Design]: https://learn.freecodecamp.org/
 
-[Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
-[JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
-[You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
 [Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
 [Learning Git and GitHub]: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
-[CSS Essential Training 3]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html
-[CSS Essential Training 2]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html
-[Getting Your Website Online]: https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html
 [Learn Enough Command Line to Be Dangerous]: https://www.learnenough.com/command-line-tutorial
-[Basic Front End Development Projects]: https://www.freecodecamp.org/syknapse
-[The Web Developer Bootcamp - Frond End]: https://www.udemy.com/the-web-developer-bootcamp
-[The Web Developer Bootcamp - Back End]: https://www.udemy.com/the-web-developer-bootcamp
 [Front End Development]: https://www.freecodecamp.org/syknapse
 [Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
 
@@ -78,19 +72,8 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 
 [//]: # (Reference links to tutors)
 
+[Kyle Simpson]: https://twitter.com/getify
+[Jonas Schmedtmann]: https://twitter.com/jonasschmedtman
 [Brad Traversy]: https://twitter.com/traversymedia
 [Wes Bos]: https://twitter.com/wesbos
 [Quincy Larson]: https://twitter.com/ossia
-
-[Cassidy Williams]: https://twitter.com/cassidoo
-[Christina Truong]: https://twitter.com/christinatruong
-[Lynda.com]: https://www.lynda.com
-[Ray Villalobos]: https://twitter.com/planetoftheweb
-[Michael Hartl]: https://twitter.com/mhartl
-[Udemy]: https://www.udemy.com
-[Udacity]: https://www.udacity.com
-[Marijn Haverbeke]: https://twitter.com/MarijnJH
-[Per Harald Borgen]: https://twitter.com/perborgen
-[Scrimba]: https://scrimba.com/
-[Kent C Dodds]: https://egghead.io/instructors/kentcdodds
-[egghead.io]: https://egghead.io/
