@@ -41,28 +41,20 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | Aug 2018 | [Free Code Camp - Responsive Web Design]                        | [Quincy Larson]              |
-| ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
+| ![Completed][Completed]     | Nov 2018 | [Free Code Camp - Javascript Data Structures and Algorithms]    | [Quincy Larson]                                   |
+| ![In Progress][In Progress] |          | [Modern Javascript From the Beginning]                          | [Brad Traversy]                                   |
+| ![In Progress][In Progress] |          | [What the flexbox?]                                             | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
 | ![Soon][Soon]               |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
-| ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
-| ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                | Kyle Simpson                                |
-| ![Soon][Soon]               |          | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]             |
-| ![Soon][Soon]               |          | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy]                       |
 
 [//]: # (Reference links to courses)
 
+[Modern Javascript From the Beginning]: https://www.udemy.com/modern-javascript-from-the-beginning/
+[What the flexbox?]: https://flexbox.io/
+[JavaScript30]: https://javascript30.com/
+[JavaScript & jQuery]: http://javascriptbook.com/
+[Free Code Camp - Javascript Data Structures and Algorithms]: https://learn.freecodecamp.org/
 [Free Code Camp - Responsive Web Design]: https://learn.freecodecamp.org/
 
 [Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
@@ -79,24 +71,24 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 [The Web Developer Bootcamp - Back End]: https://www.udemy.com/the-web-developer-bootcamp
 [Front End Development]: https://www.freecodecamp.org/syknapse
 [Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
-[JavaScript30]: https://javascript30.com/
-[JavaScript & jQuery]: http://javascriptbook.com/
+
 [Eloquent JavaScript]: http://eloquentjavascript.net/
 [Learn CSS Grid]: https://scrimba.com/g/gR8PTE
 [The Beginner's Guide to Reactjs]: https://egghead.io/courses/the-beginner-s-guide-to-reactjs
 
 [//]: # (Reference links to tutors)
 
+[Brad Traversy]: https://twitter.com/traversymedia
+[Wes Bos]: https://twitter.com/wesbos
 [Quincy Larson]: https://twitter.com/ossia
+
 [Cassidy Williams]: https://twitter.com/cassidoo
 [Christina Truong]: https://twitter.com/christinatruong
 [Lynda.com]: https://www.lynda.com
 [Ray Villalobos]: https://twitter.com/planetoftheweb
 [Michael Hartl]: https://twitter.com/mhartl
-[Free Code Camp]: https://www.freecodecamp.org
 [Udemy]: https://www.udemy.com
 [Udacity]: https://www.udacity.com
-[Wes Bos]: https://twitter.com/wesbos
 [Marijn Haverbeke]: https://twitter.com/MarijnJH
 [Per Harald Borgen]: https://twitter.com/perborgen
 [Scrimba]: https://scrimba.com/
