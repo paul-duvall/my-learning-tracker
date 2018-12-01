@@ -42,15 +42,23 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | Aug 2018 | [Free Code Camp - Responsive Web Design]                        | [Quincy Larson]              |
 | ![Completed][Completed]     | Nov 2018 | [Free Code Camp - Javascript Data Structures and Algorithms]    | [Quincy Larson]                                   |
+| ![Completed][Completed]     | Nov 2018 | [Treehouse - Beginning PHP]                                     | [Treehouse]                                   |
+| ![Completed][Completed]     | Nov 2018 | [Treehouse - Beginning Wordpress]                               | [Treehouse]                                   |
 | ![In Progress][In Progress] |          | [Modern Javascript From the Beginning]                          | [Brad Traversy]                                   |
 | ![In Progress][In Progress] |          | [What the flexbox?]                                             | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
 | ![In Progress][In Progress] |          | Read [You Don't Know Javascript]                                | [Kyle Simpson]                                 |
+| ![In Progress][In Progress] |          | [Treehouse - Development for Wordpress]                         | [Treehouse]                                 |
 | ![Soon][Soon]               |          | [Advanced CSS and Sass]                                         | [Jonas Schmedtmann]         |
+| ![Soon][Soon]               |          | [The Complete React Web Developer Course]                       | [Andrew Mead]         |
 
 [//]: # (Reference links to courses)
 
+[Treehouse - Beginning WordPress]: https://teamtreehouse.com/tracks/beginning-wordpress
+[Treehouse - Development for WordPress]: https://teamtreehouse.com/tracks/development-for-wordpress
+[Treehouse - Beginning PHP]: https://teamtreehouse.com/tracks/beginning-php
+[The Complete React Web Developer Course]: https://www.udemy.com/react-2nd-edition/
 [Advanced CSS and Sass]: https://www.udemy.com/advanced-css-and-sass/
 [Modern Javascript From the Beginning]: https://www.udemy.com/modern-javascript-from-the-beginning/
 [What the flexbox?]: https://flexbox.io/
@@ -66,12 +74,10 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 [Front End Development]: https://www.freecodecamp.org/syknapse
 [Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
 
-[Eloquent JavaScript]: http://eloquentjavascript.net/
-[Learn CSS Grid]: https://scrimba.com/g/gR8PTE
-[The Beginner's Guide to Reactjs]: https://egghead.io/courses/the-beginner-s-guide-to-reactjs
-
 [//]: # (Reference links to tutors)
 
+[Treehouse]: https://teamtreehouse.com/home
+[Andrew Mead]: https://twitter.com/andrew_j_mead
 [Kyle Simpson]: https://twitter.com/getify
 [Jonas Schmedtmann]: https://twitter.com/jonasschmedtman
 [Brad Traversy]: https://twitter.com/traversymedia
