@@ -83,3 +83,13 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 [Brad Traversy]: https://twitter.com/traversymedia
 [Wes Bos]: https://twitter.com/wesbos
 [Quincy Larson]: https://twitter.com/ossia
+
+----
+
+If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
+
+**You can [follow me on Twitter](https://twitter.com/Paul_Duvall "@Paul_Duvall") or [get in touch](https://paul-duvall.github.io/portfolio/#contact "My contact section | Portfolio")**
+
+### Acknowledgments
+
+This has been inspired by [Syk Houdeib](https://twitter.com/Syknapse) and his [Learning Tracker Repo](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months). And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
