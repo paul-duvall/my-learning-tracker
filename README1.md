@@ -86,6 +86,26 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 
 ----
 
+## Projects
+
+This section is going to contain links to projects I'm working on. Coming soon!
+
+[//]: # (Status images)
+
+[Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
+[In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
+[Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
+
+|            Status           |   Year   | Project                                                         | Skills                    |
+|:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+|                             |          |                                                                 |                           |
+
+[//]: # (Reference links to project files)
+
+[Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
+
+----
+
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
 **You can [follow me on Twitter](https://twitter.com/Paul_Duvall "@Paul_Duvall") or [get in touch](https://paul-duvall.github.io/portfolio/#contact "My contact section | Portfolio")**
