@@ -52,9 +52,11 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 | ![In Progress][In Progress] |          | [Treehouse - Development for Wordpress]                         | [Treehouse]                                 |
 | ![Soon][Soon]               |          | [Advanced CSS and Sass]                                         | [Jonas Schmedtmann]         |
 | ![Soon][Soon]               |          | [The Complete React Web Developer Course]                       | [Andrew Mead]         |
+| ![Soon][Soon]               |          | [Learning how to learn]                                         | [Barbara Oakley]      |
 
 [//]: # (Reference links to courses)
 
+[Learning how to learn]: https://www.coursera.org/learn/learning-how-to-learn/home/welcome
 [Treehouse - Beginning WordPress]: https://teamtreehouse.com/tracks/beginning-wordpress
 [Treehouse - Development for WordPress]: https://teamtreehouse.com/tracks/development-for-wordpress
 [Treehouse - Beginning PHP]: https://teamtreehouse.com/tracks/beginning-php
@@ -76,6 +78,7 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 
 [//]: # (Reference links to tutors)
 
+[Barbara Oakley]: https://twitter.com/barbaraoakley
 [Treehouse]: https://teamtreehouse.com/home
 [Andrew Mead]: https://twitter.com/andrew_j_mead
 [Kyle Simpson]: https://twitter.com/getify
