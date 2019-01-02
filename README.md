@@ -47,13 +47,13 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 | ![Completed][Completed]     | Nov 2018 | [Treehouse - Beginning PHP]                                     | [Treehouse]                                   |
 | ![Completed][Completed]     | Nov 2018 | [Treehouse - Beginning Wordpress]                               | [Treehouse]                                   |
 | ![Completed][Completed]     | Dec 2018 | [Modern Javascript From the Beginning]                          | [Brad Traversy]                                   |
+| ![Soon][In Progress]        |          | [The Complete React Web Developer Course]                       | [Andrew Mead]         |
 | ![In Progress][In Progress] |          | [What the flexbox?]                                             | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
 | ![In Progress][In Progress] |          | Read [You Don't Know Javascript]                                | [Kyle Simpson]                                 |
 | ![In Progress][In Progress] |          | [Treehouse - Development for Wordpress]                         | [Treehouse]                                 |
 | ![Soon][Soon]               |          | [Advanced CSS and Sass]                                         | [Jonas Schmedtmann]         |
-| ![Soon][Soon]               |          | [The Complete React Web Developer Course]                       | [Andrew Mead]         |
 | ![Soon][Soon]               |          | [Learning how to learn]                                         | [Barbara Oakley]      |
 
 [//]: # (Reference links to courses)
