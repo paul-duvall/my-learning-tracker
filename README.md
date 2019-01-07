@@ -17,12 +17,12 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**ES6**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**WordPress**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**AJAX / fetch API**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**WordPress**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**PHP**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
