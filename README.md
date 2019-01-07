@@ -22,13 +22,14 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**WordPress**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**PHP**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**AJAX / fetch API**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**PHP**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**SASS**                          | ![done][done]     |               |               |                  |                |                 |
-|**React**                          | ![done][done]     |               |               |                  |                |                 |
+|**React**                         | ![done][done]     |               |               |                  |                |                 |
+|**Webpack**                       | ![done][done]     |               |               |                  |                |                 |
 |**Adobe XD**                      | ![done][done]     |               |               |                  |                |                 |
 
 ----
