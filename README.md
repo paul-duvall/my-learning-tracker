@@ -28,6 +28,7 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 |**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**SASS**                          | ![done][done]     |               |               |                  |                |                 |
+|**React**                          | ![done][done]     |               |               |                  |                |                 |
 |**Adobe XD**                      | ![done][done]     |               |               |                  |                |                 |
 
 ----
