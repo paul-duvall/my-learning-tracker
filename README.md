@@ -103,9 +103,9 @@ This section is going to contain links to projects I'm working on. Coming soon!
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           |   Year   | Project                                                         | Skills                    |
-|:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-|![In Progress][In Progress]  | 2018     | Claude's Restaurant Website                                     |                           |
+|            Status           |   Year   | Project                                                         | Skills                    | Link                 |
+|:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|:----------------------|
+|![In Progress][In Progress]  | 2018     | Claude's Restaurant Website                                     | HTML5, CSS, JavaScript    |
 
 [//]: # (Reference links to project files)
 
