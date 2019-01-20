@@ -22,13 +22,13 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**AJAX / fetch API**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**React**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**SASS**                          | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**WordPress**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**PHP**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**SASS**                          | ![done][done]     |               |               |                  |                |                 |
-|**React**                         | ![done][done]     |               |               |                  |                |                 |
 |**Webpack**                       | ![done][done]     |               |               |                  |                |                 |
 |**Adobe XD**                      | ![done][done]     |               |               |                  |                |                 |
 
@@ -105,7 +105,7 @@ This section is going to contain links to projects I'm working on. Coming soon!
 
 |            Status           |   Year   | Project                                                         | Skills                    |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-|                             |          |                                                                 |                           |
+|![In Progress][In Progress]  | 2018     | Claude's Restaurant Website                                     |                           |
 
 [//]: # (Reference links to project files)
 
