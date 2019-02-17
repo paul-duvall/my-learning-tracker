@@ -25,6 +25,7 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 |**React**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Git / GitHub**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**SASS / SCSS**                   | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Adobe XD**                      | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**WordPress**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**PHP**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
@@ -32,7 +33,6 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 |**Webpack**                       | ![done][done]     |               |               |                  |                |                 |
 |**Babel**                         | ![done][done]     |               |               |                  |                |                 |
 |**Yarn**                          | ![done][done]     |               |               |                  |                |                 |
-|**Adobe XD**                      | ![done][done]     |               |               |                  |                |                 |
 
 ----
 
