@@ -46,13 +46,13 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]     | Feb 2019 | [Udacity Git and Github]                                        | Caroline Buckey       |
 | ![Completed][Completed]     | Aug 2018 | [Free Code Camp - Responsive Web Design]                        | [Quincy Larson]              |
 | ![Completed][Completed]     | Nov 2018 | [Free Code Camp - Javascript Data Structures and Algorithms]    | [Quincy Larson]                                   |
 | ![Completed][Completed]     | Nov 2018 | [Treehouse - Beginning PHP]                                     | [Treehouse]                                   |
 | ![Completed][Completed]     | Nov 2018 | [Treehouse - Beginning Wordpress]                               | [Treehouse]                                   |
 | ![Completed][Completed]     | Dec 2018 | [Modern Javascript From the Beginning]                          | [Brad Traversy]                                   |
 | ![In Progress][In Progress] |          | [The Complete React Web Developer Course]                       | [Andrew Mead]         |
-| ![In Progress][In Progress] |          | [Udacity Git and Github]                                        | Caroline Buckey       |
 | ![In Progress][In Progress] |          | [What the flexbox?]                                             | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
