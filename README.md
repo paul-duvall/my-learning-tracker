@@ -98,7 +98,7 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 
 ## Projects
 
-This section is going to contain links to projects I'm working on. Coming soon!
+This section is going to contain links to projects I'm working on. The code for all these projects can be found on Github. They are hosted using Netlify.
 
 [//]: # (Status images)
 
