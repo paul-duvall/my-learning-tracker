@@ -108,7 +108,7 @@ This section is going to contain links to projects I'm working on. Coming soon!
 
 |            Status           |   Year   | Project                                                         | Skills                    | Link                 |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|:----------------------|
-|![In Progress][In Progress]  | 2018     | Claude's Restaurant Website                                     | HTML5, CSS, JavaScript    |
+|![In Progress][In Progress]  | 2018     | [Claude's Restaurant Website]                                     | HTML5, CSS, JavaScript    |
 |![In Progress][In Progress]  | 2018     | Portfolio Redesign                                              | HTML5, CSS, JavaScript, Sass, Git / Github    |
 
 [//]: # (Reference links to project files)
