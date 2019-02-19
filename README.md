@@ -108,7 +108,8 @@ This section is going to contain links to projects I'm working on. Coming soon!
 
 |            Status           |   Year   | Project                                                         | Skills                    |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------:|
-|![In Progress][In Progress]  | 2018     | [Portfolio Redesign]                                            | HTML5, CSS, JavaScript, Sass, Git / Github    |
+|![In Progress][In Progress]  | 2019     | [Portfolio Redesign]                                            | HTML5, CSS, Sass, Git / Github    |
+|![In Progress][In Progress]  | 2019     | [devLearn]                                                      | JavaScript, Bootstrap    |
 |![In Progress][In Progress]  | 2018     | [Claude's Restaurant Website]                                   | HTML5, CSS, JavaScript  |
 
 
@@ -116,6 +117,7 @@ This section is going to contain links to projects I'm working on. Coming soon!
 
 [Claude's Restaurant Website]: https://wonderful-wilson-e250a9.netlify.com/
 [Portfolio Redesign]: https://wizardly-snyder-0678f7.netlify.com/#
+[devLearn]: https://boring-bohr-ee6bf1.netlify.com/
 
 ----
 
