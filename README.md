@@ -47,19 +47,19 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | Feb 2019 | [Udacity Git and Github]                                        | Caroline Buckey       |
-| ![Completed][Completed]     | Aug 2018 | [Free Code Camp - Responsive Web Design]                        | [Quincy Larson]              |
-| ![Completed][Completed]     | Nov 2018 | [Free Code Camp - Javascript Data Structures and Algorithms]    | [Quincy Larson]                                   |
-| ![Completed][Completed]     | Nov 2018 | [Treehouse - Beginning PHP]                                     | [Treehouse]                                   |
-| ![Completed][Completed]     | Nov 2018 | [Treehouse - Beginning Wordpress]                               | [Treehouse]                                   |
 | ![Completed][Completed]     | Dec 2018 | [Modern Javascript From the Beginning]                          | [Brad Traversy]                                   |
+| ![Completed][Completed]     | Nov 2018 | [Treehouse - Beginning Wordpress]                               | [Treehouse]                                   |
+| ![Completed][Completed]     | Nov 2018 | [Treehouse - Beginning PHP]                                     | [Treehouse]                                   |
+| ![Completed][Completed]     | Nov 2018 | [Free Code Camp - Javascript Data Structures and Algorithms]    | [Quincy Larson]                                   |
+| ![Completed][Completed]     | Aug 2018 | [Free Code Camp - Responsive Web Design]                        | [Quincy Larson]              |
 | ![In Progress][In Progress] |          | [Don't make me think - web usability]                           | [Steve Krug]         |
 | ![In Progress][In Progress] |          | [The Complete React Web Developer Course]                       | [Andrew Mead]         |
+| ![In Progress][In Progress]               |          | [Advanced CSS and Sass]                                         | [Jonas Schmedtmann]         |
 | ![In Progress][In Progress] |          | [What the flexbox?]                                             | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
 | ![In Progress][In Progress] |          | Read [You Don't Know Javascript]                                | [Kyle Simpson]                                 |
 | ![In Progress][In Progress] |          | [Treehouse - Development for Wordpress]                         | [Treehouse]                                 |
-| ![Soon][Soon]               |          | [Advanced CSS and Sass]                                         | [Jonas Schmedtmann]         |
 | ![Soon][Soon]               |          | [Learning how to learn]                                         | [Barbara Oakley]      |
 
 [//]: # (Reference links to courses)
@@ -108,12 +108,14 @@ This section is going to contain links to projects I'm working on. Coming soon!
 
 |            Status           |   Year   | Project                                                         | Skills                    |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------:|
-|![In Progress][In Progress]  | 2018     | [Claude's Restaurant Website]                                     | HTML5, CSS, JavaScript    |
-|![In Progress][In Progress]  | 2018     | Portfolio Redesign                                              | HTML5, CSS, JavaScript, Sass, Git / Github    |
+|![In Progress][In Progress]  | 2018     | [Portfolio Redesign]                                            | HTML5, CSS, JavaScript, Sass, Git / Github    |
+|![In Progress][In Progress]  | 2018     | [Claude's Restaurant Website]                                   | HTML5, CSS, JavaScript  |
+
 
 [//]: # (Reference links to project files)
 
 [Claude's Restaurant Website]: https://wonderful-wilson-e250a9.netlify.com/
+[Portfolio Redesign]: https://wizardly-snyder-0678f7.netlify.com/#
 
 ----
 
