@@ -113,7 +113,7 @@ This section is going to contain links to projects I'm working on. Coming soon!
 
 [//]: # (Reference links to project files)
 
-[Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
+[Claude's Restaurant Website]: https://wonderful-wilson-e250a9.netlify.com/
 
 ----
 
