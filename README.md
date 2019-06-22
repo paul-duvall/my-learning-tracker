@@ -19,20 +19,20 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**AJAX / fetch API**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**React**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Git / GitHub**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**SASS / SCSS**                   | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Adobe XD**                      | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**SASS / SCSS**                   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Adobe XD**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**WordPress**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**PHP**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Yarn**                          | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Webpack**                       | ![done][done]     |               |               |                  |                |                 |
 |**Babel**                         | ![done][done]     |               |               |                  |                |                 |
-|**Yarn**                          | ![done][done]     |               |               |                  |                |                 |
 
 ----
 
