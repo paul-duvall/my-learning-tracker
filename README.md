@@ -24,7 +24,6 @@ For my 100 Days of Code Log, [click here](https://github.com/paul-duvall/100-day
 |**AJAX / fetch API**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Vue.js**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Laravel**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-
 |**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Git / GitHub**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**SASS / SCSS**                   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
